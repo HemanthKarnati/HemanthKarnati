@@ -14,7 +14,7 @@ Some of the projects that I have done are:
    - I assisted in the development of the Power Distribution Unit
    - I am currently the lead hardware developer for the Telemetry Control System (TCS)
    - I am currently assisting firmware development for TCS
-   - Skills used: Altium PCB design software, ESP-idf, FreeRTOS, Serial Communication Protocols (UART, I2C, SPI)
+   - Skills used: Altium PCB design software, ESP-idf, FreeRTOS, Serial Communication Protocols (UART, I2C, SPI), Lab equipment
      
 2. HYDROLINK systems
    - I assisted in the development of the power management software, as I wrote code to change the power mode of the processor based on GPIO inputs
@@ -34,6 +34,16 @@ Some of the projects that I have done are:
    - Developed a mock C interpreter
    - This interpreter has the functionality to break certain C programming to intermediate code
    - Skills used: Python programming, C programming, Compilers & Interpreters
+
+6. Robot Design Lab
+   - Developed autonomous software using C++ that allowed a robot to perform specific actions based on sensor input using libraries, allowing for optimization and clean code
+   - Developed and tested electrical components using LTSpice to wire sensors to Arduino microprocessor
+   - Skills used: C++ programming, LTspice, soldering, lab equipment
+
+## GitHub Statistics 📈
+
+
+
 <!--
 **HemanthKarnati/HemanthKarnati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
