@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+My Name is Hemanth Karnati, and I am a Computer Engineering major at San Jose State University. I am interested in 
 <!--
 **HemanthKarnati/HemanthKarnati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
