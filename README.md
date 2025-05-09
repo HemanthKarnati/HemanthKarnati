@@ -1,6 +1,8 @@
-## Hi there 👋
 
-👋 ## ABOUT ME
+
+👋
+## ABOUT ME
+
 My Name is Hemanth Karnati, and I am a Computer Engineering major at San Jose State University. I am interested in embedded hardware and software. 
 
 My favorite programming languages are C, C++, and Python. 
