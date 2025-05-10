@@ -44,8 +44,6 @@ Some of the projects that I have done are:
 
 [![HemanthKarnati’s GitHub stats](https://github-readme-stats.vercel.app/api?username=HemanthKarnati&show_icons=true&theme=radical)](https://github.com/HemanthKarnati)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HemanthKarnati&layout=compact)](https://github.com/HemanthKarnati/github-readme-stats)
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HemanthKarnati&theme=dark)](https://git.io/streak-stats)
 
 
